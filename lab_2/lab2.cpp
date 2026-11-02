@@ -3,8 +3,6 @@
 #include <iostream>
 #include <cmath>
 
-#include <iostream>
-#include <cmath>
 #include <algorithm> // для функцій max та min
 
 using namespace std;
